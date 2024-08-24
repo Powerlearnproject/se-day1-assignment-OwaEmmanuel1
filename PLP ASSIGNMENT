@@ -1,0 +1,57 @@
+PLP ASSIGNMENT  1
+Part 1: Introduction to Software Engineering
+Explain what software engineering is and discuss its importance in the technology industry.
+Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products. Software engineering plays a crucial role in the technology industry as it makes it possible to create different software applications and innovations that continue to significantly influences different spheres of life and industries such as communication, transportation, healthcare, entertainment and education. 
+
+Identify and describe at least three key milestones in the evolution of software engineering.
+Milestones in the evolution of software engineering includes the development of programming languages (e.g. C, R, Python, Fortran) which made it possible to give specific instructions to computers, the rise of the agile methodologies in the 2000s, the establishment of software engineering as a discipline in the 1960s, and the advent of Object-Oriented Programming (OOP) which introduced the concept of encapsulating data and behavior within objects and led to the creation of programming languages like C++, Java and Python. 
+
+List and briefly explain the phases of the Software Development Life Cycle.
+The software development life cycle includes the following phases;
+a.	Requirements: this include outsourcing for the needs and requirement of the users. 
+b.	Design: deals with the creation of quality design interface that are user-friendly.
+c.	Implementation: involves writing codes by web developers and building the software application based on the design specifications. 
+d.	Testing: is a crucial stage in software development as it involves carrying out appropriate test to ensure the developed software application meets the specified standards. Testing also helps to ensure the optimal functionality of the software application. 
+e.	Deployment: this phase deals with the launch of the developed software. 
+f.	Maintenance: involves all activities such as updates and enhancements performed to ensure the functionality of the software after deployment. 
+
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+The comparison and differences between the Waterfall and Agile methodologies are explained below:
+a.	In terms of process: Waterfall follows pipelines and phases, whereas Agile follows iterations.
+
+b.	Flexibility: Waterfall software development Methodology limitations is its inflexibility. In contrast, Agile is highly flexible, it encourages changes and refinements at any stage of the development. 
+
+c.	Documentation: Water fall focuses on extensive upfront documentation, whereas Agile prioritize working software and minimizes any unnecessary documentation. 
+
+d.	Delivery: Waterfall delivers the final product at the end of the process, while Agile delivers functional software in increments throughout the development cycle.
+Example Scenarios for the Waterfall methodology include government projects where strict adherence to defined specifications are critical, large scale projects where precision is required as any deviation could lead to significant risks and medical device software. 
+Agile methodology can be used in scenarios such as in startups and innovation projects where change is quite unpredictable and in web and mobile application development. 
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Software Developer is responsible for writing codes, hence building the software and implementing the software solutions. 
+The Quality Assurance Engineer ensures that the software meets industrial standards and specification. He / she is responsible for testing the software. 
+The Project Manager oversees the planning, execution, and delivery of the project. 
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Integrated Development Environments (IDEs) are important as they provide environment for software developers to write, debug and test codes. Examples of IDEs include Visual Studio Code (VS Code), Eclipse, Pycharm, Xcode, Sublime Text, and IntelliJ IDEA. 
+Version control systems (VCS) are software tools that help track changes made to source codes. They help in managing collaboration amongst software developers working together on a project. Examples of VCS include Git, Subversion, Mercurial, and Perforce.
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+a.	Technical debt: arises from the use of quick fixes, or suboptimal solutions to meet specified deadlines at the expense of code quality which can over time lead to bugs. This can be overcome by automating testing and by educating stakeholders. 
+b.	Keeping up with rapidly changing technologies: with new frameworks, and libraries constantly emerging, it can be overwhelming to stay updated. However, it can be mitigated by continuous learning, and leveraging communities.
+c.	Tight deadlines: Software engineers often face tight deadlines and pressure to deliver quickly, which can lead to burnout or cutting corners on quality. This can be resolved by prioritizing tasks, and effective time management.
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+a.	Unit Testing: involves testing individual modules of the software being developed. These individual modules are tested in isolation. Its function is to ensure that each component of the software functions as it should and there are no bugs. Unit testing helps to detect bugs early in the software development, making it easier to fix them. 
+b.	Integration testing: involves the testing the relationships between different components. It helps detect issues that arise when multiple units are combined, such as data inconsistencies and integration failure. It also helps detect bugs that do not manifest in unit tests. 
+c.	Acceptance testing: is the final level of testing and involves testing to ensure the software developed meets the user requirements. It is important to ensure user satisfaction and the software’s readiness for deployment. 
+
+#Part 2: Introduction to AI and Prompt Engineering
+Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering involves the art of drafting instructions to guide generative AI models (like ChatGPT), towards generating desired responses.  
+Effective prompt engineering technique is important in interacting with AI models by guiding them to generate quality responses (texts, images, videos, etc.), maximize their efficiency and improving user experience.
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: Tell me about global warming. 
+Improved Prompt: Explain the concept of global warming whilst mention the main causes and provide three ways to mitigate its effects.
+The improved prompt is more effective because it is specific, concise and clear thereby limiting the scope of the response and guiding the AI model to provide a mole relevant and teargeted response. 
