@@ -53,5 +53,5 @@ Effective prompt engineering technique is important in interacting with AI model
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt: Tell me about global warming. 
-Improves Prompt: Explain the concept of global warming whilst mention the main causes and provide three ways to mitigate its effects.
+Improved Prompt: Explain the concept of global warming whilst mention the main causes and provide three ways to mitigate its effects.
 The improved prompt is more effective because it is specific, concise and clear thereby limiting the scope of the response and guiding the AI model to provide a mole relevant and teargeted response. 
